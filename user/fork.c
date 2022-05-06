@@ -1,4 +1,3 @@
-// implement fork from user space
 
 #include "lib.h"
 #include <mmu.h>
